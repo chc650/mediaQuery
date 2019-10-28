@@ -1,0 +1,125 @@
+
+
+@media screen and (max-width: 1480px) {
+    .workBlock{
+        width: 70vw;
+        transform: translateX(14%);
+    }
+    .workTitle{
+        font-size: 60px;
+        padding-top: 4vh;
+    }
+    .workLine{
+        display: block;
+        margin-top: 0;
+        padding: 0vh 6vw;
+
+    }
+    .workNum{
+        font-size: 2vw;
+
+    }
+    .numLine{
+        font-size: 2vw;
+    }
+    
+    
+    .contact h1{
+        font-size: 130px;
+    }
+    
+    .contactBlock{
+        width: 85vw;
+    }
+}
+
+
+
+
+@media screen and (max-width: 1100px) {
+    .socialNav{
+        display: flex;
+        flex-wrap: wrap;
+        bottom: 5vh;
+    }
+    
+    .socialLink{
+        width: 100%;
+        text-align: center;
+        padding-top: 12px;
+    }
+
+
+    .contact h1{
+        font-size: 95px;
+        margin-top: 0;
+        text-align: end;
+    }
+    
+    .contactLine{
+        padding: 7vh 6vw;
+       
+    }
+    .contactBlock{
+        display: block;
+        width: 95vw;
+    }
+
+
+
+    
+}
+
+@media screen and (max-width: 720px) {
+    .cover{
+        background-color: rgb(0, 0, 200);  
+    }
+    .coverGif{
+        width: 80vw;   
+    }
+ 
+    .navBar{
+        padding: 60px 5px 50px 45px;
+    }
+    
+    .work{
+        background-color: rgb(0, 0, 200);  
+    }
+    .navTitle{
+        padding-right: 75px;
+    }
+    .workTitle{
+        font-size: 45px;
+        padding-top: 6vh;
+    }
+
+    .contact{
+        background-color: rgb(0, 0, 200);  
+        color: red;
+    }
+
+    .contact h1{
+        font-size: 65px;
+        
+    }
+    
+    .contactLine{
+        padding: 9vh 6vw;
+       
+    }
+    .contactBlock{
+        width: 92vw;
+      
+    }
+
+    .workNum{
+        font-size: 3vw;
+
+    }
+    .numLine{
+        font-size: 3vw;
+    }
+
+     
+
+}
